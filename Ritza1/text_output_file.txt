@@ -1,0 +1,82 @@
+============================================== GRAPH: ==============================================
+VERTEXES: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+NUMBER OF EDGES: 68
+[INFO] EDGES ARE INTENTIONALLY PRINTED TWICE FOR BOTH VERTICES FOR BETTER READABILITY
+
+VERTEX 0:
+0 <---> 3 [weight:0] | 0 <---> 9 [weight:0] | 12 <---> 0 [weight:2] | 0 <---> 18 [weight:2] | 
+
+VERTEX 1:
+1 <---> 7 [weight:1] | 10 <---> 1 [weight:2] | 1 <---> 15 [weight:0] | 1 <---> 17 [weight:2] | 
+
+VERTEX 2:
+2 <---> 6 [weight:0] | 2 <---> 8 [weight:-1] | 2 <---> 10 [weight:0] | 2 <---> 11 [weight:0] | 18 <---> 2 [weight:-1] | 
+
+VERTEX 3:
+0 <---> 3 [weight:0] | 3 <---> 4 [weight:2] | 3 <---> 5 [weight:0] | 3 <---> 7 [weight:0] | 3 <---> 13 [weight:0] | 14 <---> 3 [weight:1] | 15 <---> 3 [weight:-1] | 16 <---> 3 [weight:0] | 18 <---> 3 [weight:2] | 
+
+VERTEX 4:
+3 <---> 4 [weight:2] | 4 <---> 5 [weight:2] | 4 <---> 8 [weight:0] | 13 <---> 4 [weight:1] | 4 <---> 19 [weight:0] | 
+
+VERTEX 5:
+3 <---> 5 [weight:0] | 4 <---> 5 [weight:2] | 9 <---> 5 [weight:2] | 10 <---> 5 [weight:1] | 13 <---> 5 [weight:1] | 5 <---> 16 [weight:0] | 
+
+VERTEX 6:
+2 <---> 6 [weight:0] | 6 <---> 8 [weight:-1] | 6 <---> 9 [weight:1] | 11 <---> 6 [weight:-1] | 6 <---> 15 [weight:-1] | 6 <---> 18 [weight:0] | 
+
+VERTEX 7:
+1 <---> 7 [weight:1] | 3 <---> 7 [weight:0] | 13 <---> 7 [weight:0] | 7 <---> 16 [weight:0] | 7 <---> 17 [weight:1] | 
+
+VERTEX 8:
+2 <---> 8 [weight:-1] | 4 <---> 8 [weight:0] | 6 <---> 8 [weight:-1] | 8 <---> 10 [weight:0] | 11 <---> 8 [weight:2] | 8 <---> 12 [weight:1] | 8 <---> 13 [weight:2] | 8 <---> 14 [weight:-1] | 8 <---> 19 [weight:2] | 
+
+VERTEX 9:
+0 <---> 9 [weight:0] | 9 <---> 5 [weight:2] | 6 <---> 9 [weight:1] | 11 <---> 9 [weight:0] | 9 <---> 14 [weight:1] | 9 <---> 18 [weight:0] | 9 <---> 19 [weight:0] | 
+
+VERTEX 10:
+10 <---> 1 [weight:2] | 2 <---> 10 [weight:0] | 10 <---> 5 [weight:1] | 8 <---> 10 [weight:0] | 11 <---> 10 [weight:1] | 10 <---> 13 [weight:1] | 15 <---> 10 [weight:1] | 10 <---> 16 [weight:0] | 17 <---> 10 [weight:1] | 
+
+VERTEX 11:
+2 <---> 11 [weight:0] | 11 <---> 6 [weight:-1] | 11 <---> 8 [weight:2] | 11 <---> 9 [weight:0] | 11 <---> 10 [weight:1] | 18 <---> 11 [weight:1] | 
+
+VERTEX 12:
+12 <---> 0 [weight:2] | 8 <---> 12 [weight:1] | 12 <---> 14 [weight:0] | 17 <---> 12 [weight:1] | 12 <---> 18 [weight:2] | 19 <---> 12 [weight:2] | 
+
+VERTEX 13:
+3 <---> 13 [weight:0] | 13 <---> 4 [weight:1] | 13 <---> 5 [weight:1] | 13 <---> 7 [weight:0] | 8 <---> 13 [weight:2] | 10 <---> 13 [weight:1] | 17 <---> 13 [weight:0] | 13 <---> 18 [weight:1] | 19 <---> 13 [weight:2] | 
+
+VERTEX 14:
+14 <---> 3 [weight:1] | 8 <---> 14 [weight:-1] | 9 <---> 14 [weight:1] | 12 <---> 14 [weight:0] | 14 <---> 15 [weight:1] | 14 <---> 16 [weight:0] | 14 <---> 17 [weight:2] | 19 <---> 14 [weight:1] | 
+
+VERTEX 15:
+1 <---> 15 [weight:0] | 15 <---> 3 [weight:-1] | 6 <---> 15 [weight:-1] | 15 <---> 10 [weight:1] | 14 <---> 15 [weight:1] | 15 <---> 17 [weight:2] | 
+
+VERTEX 16:
+16 <---> 3 [weight:0] | 5 <---> 16 [weight:0] | 7 <---> 16 [weight:0] | 10 <---> 16 [weight:0] | 14 <---> 16 [weight:0] | 17 <---> 16 [weight:2] | 16 <---> 19 [weight:0] | 
+
+VERTEX 17:
+1 <---> 17 [weight:2] | 7 <---> 17 [weight:1] | 17 <---> 10 [weight:1] | 17 <---> 12 [weight:1] | 17 <---> 13 [weight:0] | 14 <---> 17 [weight:2] | 15 <---> 17 [weight:2] | 17 <---> 16 [weight:2] | 18 <---> 17 [weight:1] | 
+
+VERTEX 18:
+0 <---> 18 [weight:2] | 18 <---> 2 [weight:-1] | 18 <---> 3 [weight:2] | 6 <---> 18 [weight:0] | 9 <---> 18 [weight:0] | 18 <---> 11 [weight:1] | 12 <---> 18 [weight:2] | 13 <---> 18 [weight:1] | 18 <---> 17 [weight:1] | 
+
+VERTEX 19:
+4 <---> 19 [weight:0] | 8 <---> 19 [weight:2] | 9 <---> 19 [weight:0] | 19 <---> 12 [weight:2] | 19 <---> 13 [weight:2] | 19 <---> 14 [weight:1] | 16 <---> 19 [weight:0] | 
+
+============================================== FIND & PRINT MST: ==============================================
+RANDOM VERTEX INDEX SELECTED: 7
+MST FOUND:
+7 <---> 3 [weight:0] | 3 <---> 15 [weight:-1] | 15 <---> 6 [weight:-1] | 6 <---> 8 [weight:-1] | 8 <---> 2 [weight:-1] | 6 <---> 11 [weight:-1] | 8 <---> 14 [weight:-1] | 2 <---> 18 [weight:-1] | 3 <---> 0 [weight:0] | 15 <---> 1 [weight:0] | 8 <---> 4 [weight:0] | 3 <---> 5 [weight:0] | 11 <---> 9 [weight:0] | 8 <---> 10 [weight:0] | 14 <---> 12 [weight:0] | 7 <---> 13 [weight:0] | 7 <---> 16 [weight:0] | 13 <---> 17 [weight:0] | 4 <---> 19 [weight:0] | 
+
+============================================== ADD EDGE TO GRAPH THAT WONT CHANGE MST: ==============================================
+Added edge: 17 <---> 12, weight: 2
+MST AFTER CHANGE: 
+7 <---> 3 [weight:0] | 3 <---> 15 [weight:-1] | 15 <---> 6 [weight:-1] | 6 <---> 8 [weight:-1] | 8 <---> 2 [weight:-1] | 6 <---> 11 [weight:-1] | 8 <---> 14 [weight:-1] | 2 <---> 18 [weight:-1] | 3 <---> 0 [weight:0] | 15 <---> 1 [weight:0] | 8 <---> 4 [weight:0] | 3 <---> 5 [weight:0] | 11 <---> 9 [weight:0] | 8 <---> 10 [weight:0] | 14 <---> 12 [weight:0] | 7 <---> 13 [weight:0] | 7 <---> 16 [weight:0] | 13 <---> 17 [weight:0] | 4 <---> 19 [weight:0] | 
+
+============================================== ADD EDGE TO GRAPH THAT WILL CHANGE MST: ==============================================
+Added edge: 17 <---> 12, weight: -2
+MST AFTER CHANGE: 
+3 <---> 15 [weight:-1] | 15 <---> 6 [weight:-1] | 6 <---> 8 [weight:-1] | 8 <---> 2 [weight:-1] | 6 <---> 11 [weight:-1] | 8 <---> 14 [weight:-1] | 2 <---> 18 [weight:-1] | 3 <---> 0 [weight:0] | 15 <---> 1 [weight:0] | 8 <---> 4 [weight:0] | 3 <---> 5 [weight:0] | 11 <---> 9 [weight:0] | 8 <---> 10 [weight:0] | 14 <---> 12 [weight:0] | 7 <---> 13 [weight:0] | 7 <---> 16 [weight:0] | 13 <---> 17 [weight:0] | 4 <---> 19 [weight:0] | 17 <---> 12 [weight:-2] | 
+
+
+Process finished with exit code 0
